@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daisy.oliani@gmail.com
+	name = daisy oliani
